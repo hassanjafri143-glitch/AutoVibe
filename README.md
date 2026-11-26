@@ -9,10 +9,10 @@ An interactive, InDrive-inspired Android marketplace prototype built for **Lahor
 > **Repo Owner — 1-Time Setup (30 Seconds):**
 > 1. In Google AI Studio, open **Settings → Generate APK** to download your `.apk` file and rename it to `AutoVibe.apk`.
 > 2. On GitHub, open **Releases → Draft a new release**, enter tag `v1.0`, attach `AutoVibe.apk`, and click **Publish release**.
-> 3. Replace `<YOUR_USERNAME>/<YOUR_REPO>` in the link below with your GitHub username and repository name (or paste the exact asset URL from your Release).
+> 3. Replace `hassanjafri143-glitch/AutoVibe` in the link below with your GitHub username and repository name (or paste the exact asset URL from your Release).
 
 ### 👉 Direct APK Download (Tap on Android Phone)
-**[Download AutoVibe.apk (Latest Release)](https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/releases/latest/download/AutoVibe.apk)**
+**[Download AutoVibe.apk (Latest Release)](https://github.com/hassanjafri143-glitch/AutoVibe/releases/latest/download/AutoVibe.apk)**
 
 *Compatibility: Android 7.0 (API 24) and higher • Package ID: `com.aistudio.autovibe.lhrpkt`*
 
