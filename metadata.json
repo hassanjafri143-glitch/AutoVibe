@@ -1,0 +1,6 @@
+{
+  "name": "AutoVibe",
+  "description": "On-demand mechanic marketplace centered in Lahore, Pakistan with InDrive-style fare bidding, vehicle diagnostics, and live mechanic tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoVibe</string>
+    <string name="city_lahore">Lahore, PK</string>
+    <string name="mode_customer">Customer</string>
+    <string name="mode_mechanic">Mechanic</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_sign_up">Sign Up</string>
+    <string name="verified_mechanic_badge">Verified Mechanic</string>
+    <string name="cnic_verified_badge">CNIC Verified</string>
+    <string name="find_nearby_mechanics">Find Nearby Mechanics</string>
+    <string name="mark_job_complete">Mark Job Complete</string>
+    <string name="upload_vehicle_photo">Upload Picture of Vehicle / Issue</string>
+    <string name="upload_workshop_photo">Upload Workshop Picture (Optional)</string>
+</resources>
